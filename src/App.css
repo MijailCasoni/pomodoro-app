@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1580px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -63,3 +63,27 @@
   background-color: #355c7d;
   color: #fff;
 }
+
+/* Estilos para el modo claro */
+body.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Estilos para el modo oscuro */
+body.dark-mode {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Estilos para el switch */
+.react-switch {
+  display: flex;
+  align-items: right;
+}
+
+.react-switch label {
+  display: flex;
+  align-items: right;
+}
+
