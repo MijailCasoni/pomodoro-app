@@ -1,0 +1,16 @@
+/* src/components/Controls.css */
+.controls {
+  margin: 20px 0;
+}
+
+.control-btn {
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.control-btn.reset {
+  background-color: #f67280;
+  color: #fff;
+}

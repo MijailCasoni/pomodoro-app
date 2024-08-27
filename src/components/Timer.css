@@ -1,0 +1,9 @@
+.timer {
+  margin: 20px 0;
+}
+
+.time-display {
+  font-size: 3em;
+  margin-top: 10px;
+  font-weight: bold;
+}

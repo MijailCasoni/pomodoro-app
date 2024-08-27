@@ -1,0 +1,41 @@
+/* src/components/Settings.css */
+.settings {
+  margin-top: 20px;
+}
+
+.settings-btn {
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.settings-form {
+  margin-top: 10px;
+  text-align: left;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 5px;
+  font-size: 1em;
+}
+
+.save-btn {
+  padding: 10px 20px;
+  background-color: #355c7d;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
